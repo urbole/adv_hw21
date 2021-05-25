@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/adv_hw21/static/css/main.142ff655.chunk.css",
+    "main.js": "/adv_hw21/static/js/main.695affb5.chunk.js",
+    "main.js.map": "/adv_hw21/static/js/main.695affb5.chunk.js.map",
+    "runtime-main.js": "/adv_hw21/static/js/runtime-main.23a61e1d.js",
+    "runtime-main.js.map": "/adv_hw21/static/js/runtime-main.23a61e1d.js.map",
+    "static/js/2.cab18e51.chunk.js": "/adv_hw21/static/js/2.cab18e51.chunk.js",
+    "static/js/2.cab18e51.chunk.js.map": "/adv_hw21/static/js/2.cab18e51.chunk.js.map",
+    "static/js/3.4754a0be.chunk.js": "/adv_hw21/static/js/3.4754a0be.chunk.js",
+    "static/js/3.4754a0be.chunk.js.map": "/adv_hw21/static/js/3.4754a0be.chunk.js.map",
+    "index.html": "/adv_hw21/index.html",
+    "static/css/main.142ff655.chunk.css.map": "/adv_hw21/static/css/main.142ff655.chunk.css.map",
+    "static/js/2.cab18e51.chunk.js.LICENSE.txt": "/adv_hw21/static/js/2.cab18e51.chunk.js.LICENSE.txt",
+    "static/media/female.8f0d7926.svg": "/adv_hw21/static/media/female.8f0d7926.svg",
+    "static/media/jupiter_1-min.bcfc66f5.jpg": "/adv_hw21/static/media/jupiter_1-min.bcfc66f5.jpg",
+    "static/media/jupiter_2-min.836a7ad9.jpg": "/adv_hw21/static/media/jupiter_2-min.836a7ad9.jpg",
+    "static/media/jupiter_3-min.8976f7f7.jpg": "/adv_hw21/static/media/jupiter_3-min.8976f7f7.jpg",
+    "static/media/jupiter_4-min.2ac1b22f.png": "/adv_hw21/static/media/jupiter_4-min.2ac1b22f.png",
+    "static/media/male.e31cd4ee.svg": "/adv_hw21/static/media/male.e31cd4ee.svg",
+    "static/media/mercury_vs_sun-min.e7ef3a29.png": "/adv_hw21/static/media/mercury_vs_sun-min.e7ef3a29.png",
+    "static/media/mimas-min.1bcb0fb2.jpg": "/adv_hw21/static/media/mimas-min.1bcb0fb2.jpg",
+    "static/media/noGender.e9ef2d64.svg": "/adv_hw21/static/media/noGender.e9ef2d64.svg",
+    "static/media/saturn_rings-min.31cccb69.jpg": "/adv_hw21/static/media/saturn_rings-min.31cccb69.jpg",
+    "static/media/saturn_with_satellites-min.69f575d2.jpg": "/adv_hw21/static/media/saturn_with_satellites-min.69f575d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23a61e1d.js",
+    "static/js/2.cab18e51.chunk.js",
+    "static/css/main.142ff655.chunk.css",
+    "static/js/main.695affb5.chunk.js"
+  ]
+}
