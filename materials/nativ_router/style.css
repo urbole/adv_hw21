@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: bisque;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  list-style: none;
+  margin-right: 15px;
+}
+
+a {
+  color: brown;
+}
+

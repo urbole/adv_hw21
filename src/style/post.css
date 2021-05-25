@@ -1,0 +1,109 @@
+.post_box {
+  margin: 5vmin;
+  background-color: #15202B;
+  color: #fff;
+  border: solid 1px bisque;
+  border-radius: 5px;
+}
+
+.author_img {
+  height: 8vmin;
+  border-radius: 50%;
+  margin: 2vmin;
+}
+
+.wrap_content {
+  gap: 1vmin;
+  margin: 2vmin 2vmin 2vmin 0;
+}
+
+.head_info {
+  align-items: center;
+}
+
+.author_nick,
+.date_post {
+  color: #8899A5;
+  position: relative;
+  margin: 0 1vmin;
+}
+
+.svg_verify {
+  margin: 0 4vmin 0 1vmin;
+  height: 2vmin;
+}
+
+.date_post::before {
+  content: "\00B7";
+  position: absolute;
+  left: -1.2vmin;
+}
+
+.action_dropdown {
+  margin-left: auto;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.text_content {
+  margin: 0 0 1vmin 0;
+}
+
+.img_media {
+  max-width: 60vmin;
+  min-width: 15vmin;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.wrap_buttons {
+  justify-content: space-between;
+}
+
+.comment_btn,
+.retweet_btn,
+.heart_btn,
+.send_btn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  /* font-size: inherit; */
+  color: #8899A5;
+  /* position: relative; */
+  height: 2vmin;
+  width: 9vmin;
+  cursor: pointer;
+  font:unset;
+}
+
+.svg_icon,
+.svg_dropdown {
+  width: 4vmin;
+  min-width: 15px;
+  /* height: 4vmin; */
+  margin-right: .5rem;
+}
+
+.count_btn {
+  font-size: 1rem;
+}
+
+.comment_btn:hover .svg_icon {
+  fill: #1DA1F2;
+}
+
+.retweet_btn:hover .svg_icon {
+  fill: #17BF63;
+}
+
+.heart_btn:hover .svg_icon {
+  fill: #E0245E;
+}
+
+.send_btn:hover .svg_icon,
+.action_dropdown:hover .svg_dropdown {
+  fill: #1DA1F2;
+}

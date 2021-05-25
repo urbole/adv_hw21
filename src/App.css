@@ -1,0 +1,28 @@
+.app_wrapper {
+  margin: 5vmin auto;
+  max-height: 80vh;
+  min-height: 600px;
+  background-color: #202124;
+  border: 1px solid rgb(255, 227, 194);
+  border-radius: 5px;
+  overflow: scroll;
+  position: relative;
+}
+
+.app_wrapper::-webkit-scrollbar {
+  width: 0;
+}
+
+.app_header {
+  width: 95%;
+  min-width: 50vmin;
+  margin: 0 auto;
+  height: 9vmin;
+  background-color: inherit;
+  border-style: none;
+  border-bottom: 1px solid bisque;
+  padding: 1.5vmin;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}

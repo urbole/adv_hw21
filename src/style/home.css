@@ -1,0 +1,6 @@
+.home_page_content img {
+  max-width: 100vmin;
+  padding: 2vmin;
+  object-fit: cover;
+  width: 100%;
+}

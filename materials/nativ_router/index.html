@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basic Routing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <nav>
+    <li><a class="link" href="/">Home Page</a></li>
+    <li><a class="link" href="/about">About Us Page</a></li>
+    <li><a class="link" href="/contacts">Contacts Page</a></li>
+  </nav>
+
+  <section class="page" data-match="/">
+    <h1>Home Page</h1>
+  </section>
+  <section class="page" data-match="/about">
+    <h1>About Us Page</h1>
+  </section>
+  <section class="page" data-match="/contacts">
+    <h1>Contacts Page</h1>
+  </section>
+
+  <script src="main.js"></script>
+</body>
+
+</html>

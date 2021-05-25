@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  background-color: black;
+  color: bisque;
+}
+
+.hw_title {
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+:active,
+:hover,
+:focus {
+  outline: 0;
+  outline-offset: 0;
+}
+
+.df {
+  display: flex;
+}
+
+.f_w {
+  flex-wrap: wrap;
+}
+
+.fd_c {
+  flex-direction: column;
+}
+
+.fd_r {
+  flex-direction: row;
+}
+
+@media (max-width: 880px) {
+  body {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,14 @@
+.gallery_page_content {
+  justify-content: center;
+  margin: 3vmin auto;
+  max-width: 100vmin
+}
+
+.gallery_page_content img {
+  min-width: 15vmin;
+  max-width: 40vmin;
+  margin: 1vmin;
+  object-fit: cover;
+  border: 1px solid bisque;
+  border-radius: 5px
+}
